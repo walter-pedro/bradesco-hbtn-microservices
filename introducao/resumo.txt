@@ -1,0 +1,14 @@
+- O que é Microsserviços
+Microserviços é uma abordagem arquitetural que visa dividir as funcionalidades em serviços pequenos e com responsabilidade única, diminuindo acoplamento e consequentemente, risco de impactos em alterações de código.
+
+- Visão geral da arquitetura Monolítica e de Microsserviços - Cite 3 exemplos
+ A arquitetura monolítica se caracteriza por manter o código em uma mesma aplicação, geralmente utilizando vários bancos de dados, a base de código costuma ser grane e alterações complicadas.
+ A arquitetura de microserviços, cria serviços menores, com poucas responsabilidades e baixo acoplamento. Normalmente, é utilizado um banco de dados para cada serviço, fortalecendo o baixo acoplamento entre as aplicações.
+ 
+- Os benefícios da arquitetura de microsserviços - Cite 3 exemplos
+ 1) Baixo Acoplamento
+ 2) Alterações geram menos impacto no restante das funcionalidades em caso de problemas
+ 3) Melhor escalabilidade dos serviços
+ 
+- Quais são os tipos de comunicação entre os microserviços?
+ Síncrona e assíncrona
